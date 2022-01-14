@@ -1,0 +1,104 @@
+Project : Advanced House Price Prediction 
+
+Models Used
+
+1) Linear Regression
+
+
+2) Ridge Regression
+
+
+3) Decison Tree Regressor
+
+
+4) Random Forest Regressor
+
+
+5) SVM Regressor
+
+
+6) KNN Regressor
+
+------------------------------
+
+1) Linear Regression
+
+RMSE of train and test predictions : 0.12584176165634584 , 0.11935170495035873
+Overall neg MSE of the model : -0.016363552154545772
+RSS : 18.496622004870343
+TSS : 183.55867448588663
+R-Squared :  0.8992331903862572
+adj R-Squared : 0.8030510810563067
+
+
+
+
+
+2) Ridge Regression
+
+RMSE of train and test predictions : 0.12607105992688503 , 0.12057302232001256
+Overall neg MSE of the model : -0.016383643726074752
+RSS : 18.56408939247106
+TSS : 183.55867448588663
+R-Squared :  0.8988656382245863
+adj R-Squared : 0.8023709535475326
+
+
+
+
+
+3) Decison Tree Regressor
+
+RMSE of train and test predictions : 0.0011607858989956502 , 0.1786611216658653
+Overall neg MSE of the model : -0.04057934765205311
+RSS : 0.0015737911190627394
+TSS : 183.55867448588663
+R-Squared :  0.999991426223122
+adj R-Squared : 0.9999823535190057
+
+
+
+
+
+4) Random Forest Regressor
+
+RMSE of train and test predictions : 0.17398276843467173 , 0.18621179814921665
+Overall neg MSE of the model : -0.033310324548913556
+RSS : 183.55867448588663
+TSS : 35.35536433584096
+R-Squared : 0.8073893024404066
+adj R-Squared : 0.6417469363371304
+
+
+
+
+
+5) SVM Regressor
+
+RMSE of train and test predictions : 0.09883592092281665 , 0.13522895288505107
+Overall neg MSE of the model : -0.019209010632461263
+RSS : 11.409653861124358
+TSS : 183.55867448588663
+R-Squared : 0.9378419249698732
+adj R-Squared : 0.876042244058031
+
+
+
+
+
+
+6) KNN Regressor
+
+RMSE of train and test predictions : 0.001160499322224274 , 0.16599812441808823
+Overall neg MSE of the model : -0.027054846815747362
+RSS : 0.0015730141345993431
+TSS : 183.55867448588663
+R-Squared : 0.9999914304560162
+adj R-Squared : 0.9999823622310784
+
+
+
+
+
+
+
